@@ -1,0 +1,5 @@
+The number of objects: 3
+The initial time: 0
+Planet 1: m1=1 p1=(0,0,0) v1=(1,0,0)
+Planet 2: m2=0.003 p2=(0,1,0) v2=(1,0,1)
+Planet 3: m3=3.7e-05 p3=(0,1.002,0.001613) v3=(1,0,1.1)
